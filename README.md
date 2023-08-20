@@ -1,2 +1,2 @@
 # my-first-repo
-My first learning project
+My first learning project - a minor change
