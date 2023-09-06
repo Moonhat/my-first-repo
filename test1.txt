@@ -1,3 +1,1 @@
-Hello there! How are you doing? I am fine. Pls send me your address.
-cat < test1.txt
-clear
+Always fine. I said so. Now get lost.
